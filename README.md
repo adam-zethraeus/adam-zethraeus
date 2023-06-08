@@ -13,11 +13,12 @@ But OS's developers are incentived to tie it all up in their proprietary APIs.
 1. How do we make app state management better?
 2. Is UI development as easy as it can be?
 3. What can we learn from:
-  -  Elm, Redux, Fluxxor, MobX, TCA?
+  -  Elm, Redux, Flux, MobX, TCA?
   -  React, SwiftUI, Compose?
-  -  Other state/UI management paradigms/frameworks?
+  -  Other state and UI management paradigms and frameworks?
 
-What do app _development and design_ look like when
+What does app _development and design_ look like when
 an __app's interface is an API, not a UI?__
 ```
+
 If you've got thoughts: get in touch at `adam@zethrae.us`
