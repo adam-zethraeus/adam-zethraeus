@@ -21,4 +21,4 @@ What does app _development and design_ look like when
 an __app's interface is an API, not a UI?__
 ```
 
-If you've got thoughts: get in touch at `adam@zethrae.us`
+If you've got thoughts: get in touch at `developer@goodhats.llc`/`adam@zethrae.us`
