@@ -8,7 +8,7 @@ I'm building [🌳 StateTree](https://github.com/GoodHatsLLC/StateTree), a bette
 ```markdown
 ## Your app is not its UI.
 
-But OS's developers are incentived to tie it all up in their proprietary APIs.
+But OS developers are incentived to tie it all up in their proprietary APIs.
 
 1. How do we make app state management better?
 2. Is UI development as easy as it can be?
